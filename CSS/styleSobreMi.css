@@ -1,0 +1,25 @@
+body{
+    background-image: url('../IMG/fondo.jpg');
+    background-size: 100%;
+}
+a {
+    align-items: right;
+     color: white;
+     background-color: rgb(8, 217, 228);
+     border-radius:  10%;
+     padding: 5px;
+     color :black;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+     font-weight: 600;
+     text-decoration: none;
+ }
+ .sobreMi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+    font-size: x-large;
+    
+ }
+ h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+ }
